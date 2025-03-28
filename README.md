@@ -9,9 +9,9 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-#### Setup Video
+#### App Setup Video
 
-- [Final Code Setup video](https://vimeo.com/1070307899/59cc9cc92a)
+- [App Demonstration Video](https://vimeo.com/1070307899/59cc9cc92a)
 
 ```
   WATCH: Setup & Demo Of Project
@@ -36,12 +36,6 @@ Kindly follow the following Instructions to run the project in your system and i
 All you need to follow the complete project and follow the instructions which are explained in the tutorial 
 
 
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
 #### OPEN AI
 
 ```https://platform.openai.com/docs/api-reference/introduction
@@ -63,14 +57,16 @@ All you need to follow the complete project and follow the instructions which ar
 
 Open the command prompt and type the following : 
 
-```npx hardhat node
+```
+  npx hardhat node
 ```
 
 This will generate the accounts and make them live
 
 Split the command prompt and type the following :
 
-```npx hardhat run scripts/deploy.js --network localhost
+```
+  npx hardhat run scripts/deploy.js --network localhost
 ```
 
 This will create the Artifacts and Cache folders.
@@ -79,7 +75,8 @@ Copy the Healthcare.json Contract from the artifacts/contracts folder and paste 
 
 Now, Clear the split command prompt and run the app using the following command : 
 
-```npm run dev
+```
+  npm run dev
 ```
 
 #### PACKAGES

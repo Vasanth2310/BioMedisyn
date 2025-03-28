@@ -11,7 +11,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
+- [Final Code Setup video](https://vimeo.com/1070307899/59cc9cc92a)
 
 ```
   WATCH: Setup & Demo Of Project
@@ -81,32 +81,6 @@ Now, Clear the split command prompt and run the app using the following command 
 
 ```npm run dev
 ```
-
-#### Test Faucets
-
-Alchemy will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
-
-```
-  Get: Free Test Faucets
-  URL : https://faucet.polygon.technology/
-```
-
-#### RemixID
-
-We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
-
-```
-  OPEN: RemixID
-  URL: https://remix-project.org
-```
-
-#### Polygon Amoy
-
-```
-  OPEN: Polygon Amoy
-  URL: https://amoy.polygonscan.com/
-```
-
 
 #### PACKAGES
 
